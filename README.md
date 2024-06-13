@@ -1,4 +1,4 @@
-[Link Eng](#inglese)
+[Link to English](#english)
 
 # 🚀 COBOL Operations Program
 
@@ -41,7 +41,7 @@ PS: Se volessi scaricare l'ide ed iniziare subito a programmare, ti consiglio:
 
 # creato con ❤️ da [TheManufacturer]
 
-## Inglese {#inglese}
+## English
 
 # 🚀 COBOL Operations Program
 
