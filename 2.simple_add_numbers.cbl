@@ -19,7 +19,7 @@
            DISPLAY "HI MY FRIENDS...HERE WE GO AGAIN".
            DISPLAY " ".
 
-           *>mostra un messaggio all'utente, [with no advancing - che noi abbiamo tolto perchè non mi fà vedere il messaggio]
+           *>mostra un messaggio all'utente, [with no advancing - che noi abbiamo tolto perchÃ¨ non mi fÃ  vedere il messaggio]
            DISPLAY "Enter First Number : ".
 
            *>accetta l'input dell'utente e lo memorizza nella variabile
