@@ -4,11 +4,11 @@
            *> Assegniamo un nome al programma
            PROGRAM-ID. HelloWorld.
 
-           *> L'ambiente dove verrà eseguito il programma
+           *> L'ambiente dove verrÃ  eseguito il programma
            *> In questi casi "semplici", lasciamo vuoto
            ENVIRONMENT DIVISION.
 
-           *> Dichiarazione dati, WORKING-STORAGE è usata per
+           *> Dichiarazione dati, WORKING-STORAGE Ã¨ usata per
            *> dichiarazione variabili
            DATA DIVISION.
 
